@@ -1,0 +1,3 @@
+En el desafío tres lo que se tiene que hacer es presionar el boton arriba o abajo para bajar o subir la temperatura, la correcta debe de ser -20 °C, si pone otra, perderá en automático y saldrá el dialogo de la carpeta "Dialogos/Dialogo_Error/Error_Desafio_02_03" con el sprite de la carpeta "Supervisora/Supervisora_07_LoHicisteMal"
+
+Si todo lo hizo bien al final del desafío, saldrán los dialogos de la carpeta de la carpeta "Dialogos/Dialogo_Exito/Desafio_02_03" con el sprite de la carpeta "Supervisora/Supervisora_06_LoHicisteBien"	

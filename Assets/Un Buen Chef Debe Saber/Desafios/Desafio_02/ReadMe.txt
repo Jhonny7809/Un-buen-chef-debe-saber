@@ -1,0 +1,3 @@
+En el desafío dos lo que se tiene que hacer es girar la perilla hasta que esté entre 100 y 60 °C, mientras esté en ese rango estará bien, en caso de estar fuera de ese rango, perderá en automático y saldrá el dialogo de la carpeta "Dialogos/Dialogo_Error/Error_Desafio_02_03" con el sprite de la carpeta "Supervisora/Supervisora_07_LoHicisteMal"
+
+Si todo lo hizo bien al final del desafío, saldrán los dialogos de la carpeta de la carpeta "Dialogos/Dialogo_Exito/Desafio_02_03" con el sprite de la carpeta "Supervisora/Supervisora_06_LoHicisteBien"	

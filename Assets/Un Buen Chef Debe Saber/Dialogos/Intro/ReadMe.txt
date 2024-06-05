@@ -1,0 +1,1 @@
+Después de que salga el diálogo 03, se desplegará el manual sobre la pantalla, si el jugador da en el tache de la esquina superior derecha, este manual se cerrará y saldrá el diálogo 04, posteriormente iniciará el primer desafío y así consecutivamente.
